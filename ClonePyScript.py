@@ -6,3 +6,6 @@ import numpy as np
 
 # Creating a random variable
 test = 'test text'
+
+# Creating another random variable
+var_2 = 'test text 2'
